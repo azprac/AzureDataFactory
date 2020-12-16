@@ -1,3 +1,4 @@
+DDL to Create Customer table to Practice SCD Type 2
 create table customer(
 customer_dim_key decimal(25),
 first_name varchar(250),
